@@ -1,4 +1,4 @@
-name: go-git-pr-commenter release
+name: go-pr-commenter release
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: releasing go-git-pr-commenter
+    name: releasing go-pr-commenter
     runs-on: ubuntu-latest
 
     steps:
