@@ -7,12 +7,12 @@ require (
 	github.com/google/go-github/v44 v44.1.0
 	github.com/samber/lo v1.38.1
 	github.com/urfave/cli/v2 v2.25.7
-	golang.org/x/oauth2 v0.1.0
+	golang.org/x/oauth2 v0.13.0
 )
 
 require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
-	github.com/golang/protobuf v1.5.2 // indirect
+	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
@@ -22,5 +22,5 @@ require (
 	golang.org/x/exp v0.0.0-20220613132600-b0d781184e0d // indirect
 	golang.org/x/net v0.17.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/protobuf v1.28.0 // indirect
+	google.golang.org/protobuf v1.31.0 // indirect
 )
