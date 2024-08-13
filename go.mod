@@ -6,7 +6,7 @@ require (
 	github.com/argonsecurity/go-environments v0.1.68
 	github.com/google/go-github/v44 v44.1.0
 	github.com/google/go-github/v57 v57.0.0
-	github.com/samber/lo v1.38.1
+	github.com/samber/lo v1.47.0
 	github.com/urfave/cli/v2 v2.25.7
 	golang.org/x/oauth2 v0.15.0
 )
